@@ -1,0 +1,122 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+/*网页头部样式*/
+header{
+	width:100%;
+	height:60px;
+	background-color:#000000;
+	border-bottom:
+	solid 1px #333333;
+}
+#logo0{
+	float:left;
+	width:60px;
+	height:60px;
+	margin-left:10px;
+}
+#logo1{
+	display:block;
+	padding-top:5px;
+	border:0px;
+	margin:0 auto;
+}
+nav{
+	float:right;
+	width:500px;
+	height:60px;
+	font-family:"Noto Sans S Chinese Bold";
+	font-size:20px;
+	line-height:60px;
+	font-weight:bold;
+}
+nav li{
+	list-style-type:none;
+	width:100px;
+	text-align:center;
+	float:right;
+	color:#6FF4E2;
+}
+/*网页底部样式*/
+footer{
+	width:100%;
+	height:50px;
+	padding-top:10px;
+	background-color:rgba(0,0,0,0.7);
+	position:absolute;
+	bottom:0px;
+	font-family:"Noto Sans S Chinese Bold";
+	font-size:12px;
+	text-align:center;
+}
+/*文字超链部分*/
+.a01:link{color:#6FF4E2;text-decoration: none;}
+.a01:visited{color:inherit;text-decoration: none;}
+.a01:hover{opacity:0.5;filter:alpha(opacity=50);text-decoration: none;}
+.a01:active{text-decoration: none;}
+.a02:link{color:#6FF4E2;text-decoration: none;}
+.a02:visited{color:inherit;text-decoration: none;}
+.a02:hover{opacity:0.5;filter:alpha(opacity=50);text-decoration: none;}
+.a02:active{text-decoration: none;}
+/*字体部分*/
+.char01{/*版权声明*/
+	font-family:"Noto Sans S Chinese Medium";
+	font-size:12px;
+	font-style:italic;
+	opacity:0.7;
+	filter:alpha(opacity=70);
+}
+.char02{/*更新记录*/
+	font-family:"Noto Sans S Chinese Black";
+	font-size:14px;
+	color:#6AB8E9;
+	opacity:0.7;
+	filter:alpha(opacity=70);
+}
+.char03{/*段落标题*/
+	font-family:"Noto Sans S Chinese Bold";
+	font-size:30px;
+	font-style:italic;
+	color:#000000;
+}
+.char04{/*段落正文*/
+	font-family:"Noto Sans S Chinese Medium";
+	font-size:20px;
+	font-style:normal;
+	color:#6FC5A1;
+}
+.char05{/*小字*/
+	font-family:"Noto Sans S Chinese Medium";
+	font-size:12px;
+	font-style:normal;
+	color:#6AB8E9;
+}
+.char06{/*神秘代码部分*/
+	font-family:"Noto Sans S Chinese Medium";
+	font-size:12px;
+	font-style:normal;
+	color:#7C6E58;
+}
+.char07{/*联系方式标题*/
+	font-family:"Noto Sans S Chinese Bold";
+	font-size:30px;
+	font-style:italic;
+	color:#6FAD59;
+}
+.char08{/*联系方式*/
+	font-family:"Noto Sans S Chinese Medium";
+	font-size:30px;
+	font-style:normal;
+	color:#D4405C;
+	text-align:left;
+}
+.char09{/*联系方式*/
+	font-family:"Noto Sans S Chinese Medium";
+	font-size:30px;
+	font-style:normal;
+	color:#7E2BBC;
+	text-align:right;
+}

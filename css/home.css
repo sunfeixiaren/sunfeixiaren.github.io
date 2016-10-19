@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-size:12px;
+	color:#FFFFFF;
+	line-height:25px;
+	background-color:#000000;
+	background-image:url(../Pic/BackG.jpg);
+	background-repeat:no-repeat;
+	background-position:center 60px;
+}
