@@ -1,2 +1,2 @@
 # Yirami.github.io
-These are my pages! 
+These are documents of my pages! 
