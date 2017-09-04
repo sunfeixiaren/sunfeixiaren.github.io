@@ -1,2 +1,5 @@
 # Yirami.github.io
-These are documents of my pages! 
+[^_^]:个人站点
+## 说明
++ 展示个人工作相关的经历
++ 展示个人兴趣相关的材料
