@@ -28,12 +28,52 @@ File Description: Place here your custom CSS styles
 	min-height: 90%;
 	position: relative;
 	color: #fff;
+	background-color: rgba(219, 206, 143, 0.8);
 }
 .hub-image {
 	background: url("../images/hub.jpg") 50% 0px no-repeat;
 }
 .hub h3 {
 	color: #12121a;
+}
+.hub a {
+	font-size: 16px;
+	font-weight: 500;
+}
+.list-title {
+	font-size: 18px;
+	font-weight: 500;
+}
+.contact-bg {
+	background-color: #abc88b;
+}
+.about h1 {
+	color: #000000;
+}
+.footer-content p {
+	font-size: 20px;
+	font-weight: 500;
+}
+.code-highlight {
+	font-weight: bold;
+	color: #4c40aa;
+}
+.code-shift-1 {
+	position: relative;
+	left: 25px;
+}
+.code-shift-2 {
+	position: relative;
+	left: 50px;
+}
+.code-shift-4 {
+	position: relative;
+	left: 100px;
+}
+.qq i,
+.wechat i,
+.googleplus i {
+	font-size: 40px;
 }
 .font-en-1{
 	color: #55acee;

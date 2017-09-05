@@ -98,7 +98,7 @@ img {
 	padding: 0;
 	margin: 20px 0;
 	list-style: none;
-	font-size: 18px;
+	font-size: 20px;
 }
 .list-icons li {
 	padding: 0 0 15px 0;
@@ -226,7 +226,7 @@ blockquote {
 	background-color: rgba(0, 0, 0, 0.7);
 }
 .translucent-bg.mycolor:after {
-	background-color: rgba(139, 197, 197, 0.4);
+	background-color: rgba(135, 132, 59, 0.4);<-- 72, 176, 191 -->
 }
 .translucent-bg .container {
 	z-index: 3;
